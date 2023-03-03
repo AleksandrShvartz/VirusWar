@@ -36,7 +36,7 @@
 
     Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch
 
-- [Статья на Medium: "ow to Train an AI to Play Any Game"](https://towardsdatascience.com/how-to-train-an-ai-to-play-any-game-f1489f3bc5c?gi=b8f3ce057fa7)
+- [Статья на Medium: "How to Train an AI to Play Any Game"](https://towardsdatascience.com/how-to-train-an-ai-to-play-any-game-f1489f3bc5c?gi=b8f3ce057fa7)
 - [Статья на Medium: "How To Build Your Own AI To Play Any Board Game"](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717)
     * [Библиотека, используемая в статье](https://github.com/davidADSP/SIMPLE)
 - [Статья на Medium: "Teaching AI To Play a Platform-Fighting Game Using Genetic Neural Networks"](https://medium.com/@mikecazzinaro/teaching-ai-to-play-a-platform-fighting-game-using-neural-networks-ef9316c34f52)
